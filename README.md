@@ -14,3 +14,6 @@ MNINST dataset contains 60000 images for training, and 10000 images for test.
 ## Experiment 5: Neural Networks (NN)
 ## Experiment 6: Support Vector Machines (SVM)
 ## Experiment 7: K-Means Clustering
+test
+test
+test
