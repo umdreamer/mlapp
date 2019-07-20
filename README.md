@@ -7,7 +7,6 @@ Write programs in C++ OpenCV.
 
 ## Experiment 2: MNIST Dataset
 
-MNINST dataset contains 60000 images for training, and 10000 images for test.
 
 ## Experiment 3: Logistic Regression (LR)
 ## Experiment 4: Perceptron
